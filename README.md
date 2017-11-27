@@ -1,4 +1,9 @@
-# u0-gtting-started
+# Witaj na mojej stronie! 
+
+Mam na imię Ola i właśnie uczę się tworzyć strony internetowe. 
+
+
+
 git clone - fetches the remote repository to local file system
 git status - checks the current state of the repository
 git add - stages the changes for commit, starts file tracking
