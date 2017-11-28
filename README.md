@@ -2,6 +2,76 @@
 
 Mam na imię Ola i właśnie uczę się tworzyć strony internetowe. 
 
+<!DOCTYPE html>
+<html>
+    <body><img src="images/harry-potter-logo.png" alt="harry-potter-logo"</body>
+        <p> </p>
+    <head>
+        <meta charset="utf-8"
+              <title><strong>Harry Potter</strong></title>
+		<p>to seria siedmiu powieści fantasy autorstwa brytyjskiej pisarki J.K Rowling, wydanych między rokiem 1997 a 2007 przez Bloomsbury (w Wielkiej Brytanii). W Stanach Zjednoczonych ich publikacją zajęło się wydawnictwo Scholastic Corporation, a w Polsce – w przekładzie Andrzeja Polkowskiego - Media Rodzina</p>
+		
+		<link href='http://fonts.googleapis.com/css?family=Dancing+Script' rel='stylesheet' type='text/css'>
+        
+    <link href="styles/style.css" rel="stylesheet" type="text/css"> 
+    
+    <link href="https://fonts.googleapis.com/css?family=Spectral+SC" rel="stylesheet" type="text/css">
+        
+    <style> 
+        
+        body {
+            font-family:'Dancing+Script', cursive;
+            font-size: 20px;
+            text-shadow: 4px 4px 4px #aaa;
+        }
+       
+    </style>
+    
+</head>
+<body>
+    <h1>Fabuła</h1>
+
+    <p>Akcja Harry’ego Pottera toczy się w alternatywnej wersji naszej rzeczywistości, w której istnieje niezależne społeczeństwo czarodziejów; z własnymi szkołami, ministerstwem magii, instytucjami itp. Jest ono ukrywane przed zwyczajnymi, niemagicznymi ludźmi (nazywanymi przez czarodziejów mugolami)
+Głównym bohaterem jest Harry Potter, sierota wychowany w spokrewnionej rodzinie mugoli, w wyniku zamordowania jego rodziców przez Lorda Voldemorta (jego prawdziwe imię, używane w dzieciństwie to Tom Marvolo Riddle), który w dniu jedenastych urodzin dowiaduje się o swojej przynależności do świata czarodziejów od półolbrzyma Hagrida, który był gajowym w Hogwarcie. Chłopiec rozpoczyna siedmioletnią edukację w Szkole Magii i Czarodziejstwa o nazwie Hogwart, gdzie poznaje przyjaciół Rona i Hermionę oraz stawia czoła kolejnym przygodom, między innymi zabicie Bazyliszka w Komnacie Tajemnic, odebranie Quirellowi Kamienia Filozoficznego, wyszarpnięcie Syriusza Blacka z paszczy Ministerstwa, akcja z przepowiednią, zabranie fałszywego horkruksa z jaskini. Dalsze poczynania Harry’ego odbywają się poza szkołą.
+Najważniejszą z nich jest walka z najpotężniejszym czarnoksiężnikiem wszech czasów, Lordem Voldemortem, który zabił rodziców Harry’ego, gdy ten miał rok.
+Akcja każdej z powieści (z wyjątkiem pojedynczych rozdziałów i retrospekcji) odbywa się między 1991 a 1998 rokiem, zawsze między wakacjami aż do końca kolejnego roku szkolnego.</p>
+    <h2>Kontynuacje</h2>
+    <p>W międzyczasie wydane zostały również książki <i>Fantastyczne zwierzęta i jak je znaleźć</i> oraz Quidditch przez wieki, rozwijające świat Harry’ego Pottera, z których dochód został przeznaczony na cele charytatywne.
+Po napisaniu siódmego tomu autorka napisała książkę, wydaną pierwotnie w siedmiu odręcznie pisanych i ilustrowanych egzemplarzach, pod tytułem Baśnie Badra Beedle’a. Niespełna rok później książka trafiła do sprzedaży detalicznej.
+W maju 2008 roku natomiast, Rowling napisała na potrzeby aukcji prequel serii Harry Potter liczący 800 słów. Tekst został zlicytowany 10 czerwca na cele dobroczynne. Akcja opowieści dzieje się 3 lata przed narodzinami Harry’ego i dotyczy przygody Jamesa Pottera i Syriusza Blacka z mugolskimi policjantami.
+Latem 2016 odbyła się premiera spektaklu Harry Potter i przeklęte dziecko na londyńskim West Endzie. Przedstawienie jest oparte na zupełnie nowej historii, współtworzonej przez Rowling wraz z Jackiem Thorne’em (scenariusz) i Johnem Tiffanym (reżyseria). 31 lipca 2016 scenariusz przedstawienia ukazał się w formie książkowej nakładem wydawnictwa Little, Brown.</p>
+  
+    <img src="images/harry_potter.png" alt="harry_potter">
+    
+    <p><strong>Lista powieści</strong></p>
+    <ol>
+    <li>Kamień Filozoficzny</li>
+    <li>Komnata Tajemnic</li>
+    <li>Więzień Azkabanu</li>
+    <li>Czara Ognia</li>
+    <li>Zakon Feniksa</li>
+    <li>Książę Połkrwi</li>
+    <li>Insygnia Śmierci</li>
+    </ol>
+    
+    <p>Harry Potter na filmweb:</p>
+    <ul>
+    <li> <a href="http://www.filmweb.pl/Harry.Potter.I.Kamien.Filozoficzny">Harry Potter i Kamień Filozoficzny</a></li>
+        <li> <a href="http://www.filmweb.pl/Harry.Potter.I.Komnata.Tajemnic">Harry Potter i Komnata Tajemnic</a> </li>
+        <li> <a href="http://www.filmweb.pl/Harry.Potter.I.Wiezien.Azkabanu">Harry Potter i Więzień Azkabanu</a></li>
+        <li> <a href="http://www.filmweb.pl/Harry.Potter.I.Czara.Ognia">Harry Potter i Czara Ognia</a></li>
+        <li> <a href="http://www.filmweb.pl/Harry.Potter.I.Zakon.Feniksa">Harry Potter i Zakon Feniksa</a></li>
+        <li> <a href="http://www.filmweb.pl/film/Harry+Potter+i+Książę+Półkrwi-2009-142402">Harry Potter i Książę Połkrwi</a></li>
+        <li> <a href="http://www.filmweb.pl/film/Harry+Potter+i+Insygnia+Śmierci%3A+Część+I-2010-396969">Harry Potter i Insignia Śmierci part 1</a></li>
+        <li> <a href="http://www.filmweb.pl/film/Harry+Potter+i+Insygnia+Śmierci%3A+Część+II-2011-476021">Harry Potter i Insignia Śmierci part 2</a></li>
+        </ul>
+	
+<button>Change user</button>
+<script src="scripts/main.js"></script>
+	
+    </body>
+	
+</html>
 
 
 git clone - fetches the remote repository to local file system
